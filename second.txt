@@ -1,3 +1,5 @@
 For the feature branch
 
 added master
+
+conflict message - feature
